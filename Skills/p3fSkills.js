@@ -103,3 +103,100 @@ const Vorpal_Blade = {
     critical: "5%",
     cost: "21% of HP",
 }
+//Strike skills for Persona 3 FES
+const Bash = {
+    name: "Bash",
+    effect: "Deals light Strike damage to one foe.",
+    power : "30",
+    accuracy: "90%",
+    critical: "5%",
+    cost: "7% of HP",
+}
+const Sonic_Punch = {
+    name: "Sonic Punch",
+    effect: "Deals light Strike damage to one foe.",
+    power : "70",
+    accuracy: "95%",
+    critical: "12%",
+    cost: "9% of HP",
+}
+const Assault_Dive = {
+    name: "Assault Dive",
+    effect: "Deals light Strike damage to one foe.",
+    power : "90",
+    accuracy: "88%",
+    critical: "5%",
+    cost: "9% of HP",
+}
+const Kill_Rush = {
+    name: "Kill Rush",
+    effect: "Deals light Strike damage to one foe.(1-2 hits)",
+    power : "110",
+    accuracy: "85%",
+    critical: "3%",
+    cost: "10% of HP",
+}
+const Swift_Strike = {
+    name: "Swift Strike",
+    effect: "Deals light Strike damage to all foes.(1-3 hits)",
+    power : "95",
+    accuracy: "80%",
+    critical: "3%",
+    cost: "15% of HP",
+}
+const Herculean_Strike = {
+    name: "Herculean Strike",
+    effect: "Deals medium Strike damage to all foes.",
+    power : "210",
+    accuracy: "85%",
+    critical: "3%",
+    cost: "18% of HP",
+}
+const Gigantic_Fist = {
+    name: "Gigantic Fist",
+    effect: "Deals heavy Strike damage to one foe.",
+    power : "315",
+    accuracy: "80%",
+    critical: "15%",
+    cost: "12% of HP",
+}
+const Heat_Wave = {
+    name: "Heat Wave",
+    effect: "Deals medium Strike damage to all foes.",
+    power : "280",
+    accuracy: "90%",
+    critical: "10%",
+    cost: "16% of HP",
+}
+const Vicious_Strike = {
+    name: "Vicious Strike",
+    effect: "Deals heavy Strike damage to all foes.",
+    power : "340",
+    accuracy: "92%",
+    critical: "1%",
+    cost: "19% of HP",
+}
+const Weary_Thrust = {
+    name: "Weary Thrust",
+    effect: "Deals heavy Strike damage to one foe. (Tired bonus)",
+    power : "405",
+    accuracy: "99%",
+    critical: "5%",
+    cost: "13% of HP",
+}
+const Akasha_Arts = {
+    name: "Akasha Arts",
+    effect: "Deals heavy Strike damage to all foes. (1-2 hits)",
+    power : "350",
+    accuracy: "85%",
+    critical: "10%",
+    cost: "19% of HP",
+}
+const Gods_Hand = {
+    name: "God's Hand",
+    effect: "Deals severe Strike damage to one foe.",
+    power : "600",
+    accuracy: "90%",
+    critical: "10%",
+    cost: "14% of HP",
+}

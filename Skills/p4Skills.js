@@ -87,3 +87,93 @@ const Vorpal_Blade = {
     critical: "5%",
     cost: "25% of HP",
 }
+
+//Strike skills for Persona 4
+const Bash = {
+    name: "Bash",
+    effect: "Deals light Physical damage to 1 foe.",
+    power : "120",
+    accuracy: "100%",
+    critical: "20%",
+    cost: "6% of HP",
+}
+const Sonic_Punch = {
+    name: "Sonic Punch",
+    effect: "Deals light Physical damage to 1 foe.",
+    power : "150",
+    accuracy: "90%",
+    critical: "25%",
+    cost: "8% of HP",
+}
+const Assault_Dive = {
+    name: "Assault Dive",
+    effect: "Deals light Physical damage to 1 foe.",
+    power : "200",
+    accuracy: "90%",
+    critical: "20%",
+    cost: "10% of HP",
+}
+const Kill_Rush = {
+    name: "Kill Rush",
+    effect: "Deals light Physical damage to 1 foe.(1-3 hits)",
+    power : "100",
+    accuracy: "90%",
+    critical: "10%",
+    cost: "10% of HP",
+}
+const Swift_Strike = {
+    name: "Swift Strike",
+    effect: "Deals light Physical damage to all foes.(1-2 hits)",
+    power : "130",
+    accuracy: "80%",
+    critical: "5%",
+    cost: "12% of HP",
+}
+const Herculean_Strike = {
+    name: "Herculean Strike",
+    effect: "Deals medium Physical damage to all foes.",
+    power : "180",
+    accuracy: "80%",
+    critical: "5%",
+    cost: "16% of HP",
+}
+const Gigantic_Fist = {
+    name: "Gigantic Fist",
+    effect: "Deals heavy Physical damage to one foe.",
+    power : "315",
+    accuracy: "90%",
+    critical: "25%",
+    cost: "16% of HP",
+}
+const Heat_Wave = {
+    name: "Heat Wave",
+    effect: "Deals medium Physical damage to all foes.",
+    power : "250",
+    accuracy: "75%",
+    critical: "5%",
+    cost: "16% of HP",
+}
+const Vicious_Strike = {
+    name: "Vicious Strike",
+    effect: "Deals heavy Physical damage to all foes.",
+    power : "280",
+    accuracy: "90%",
+    critical: "5%",
+    cost: "18% of HP",
+}
+const Akasha_Arts = {
+    name: "Akasha Arts",
+    effect: "Deals heavy Physical damage to all foes. (1-2 hits)",
+    power : "260",
+    accuracy: "80%",
+    critical: "5%",
+    cost: "18% of HP",
+}
+const Gods_Hand = {
+    name: "God's Hand",
+    effect: "Deals severe Physical damage to 1 foe.",
+    power : "1600",
+    accuracy: "90%",
+    critical: "15%",
+    cost: "22% of HP",
+}

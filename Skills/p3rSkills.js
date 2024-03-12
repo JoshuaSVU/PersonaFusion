@@ -80,3 +80,69 @@ const Vorpal_Blade = {
     critical: "5%",
     cost: "22% of HP",
 }
+
+//Strike skills for Persona 3 Reload
+const Sonic_Punch = {
+    name: "Sonic Punch",
+    effect: "Deals weak Strike damage to one foe. Low chance of inflicting Distress.",
+    power : "70",
+    accuracy: "95%",
+    critical: "12%",
+    cost: "9% of HP",
+}
+const Assault_Dive = {
+    name: "Assault Dive",
+    effect: "Deals medium Strike damage to one foe.",
+    power : "120",
+    accuracy: "88%",
+    critical: "13%",
+    cost: "11% of HP",
+}
+const Swift_Strike = {
+    name: "Swift Strike",
+    effect: "Deals weak Strike damage to all foes.(1-2 hits)",
+    power : "60",
+    accuracy: "80%",
+    critical: "3%",
+    cost: "15% of HP",
+}
+const Herculean_Strike = {
+    name: "Herculean Strike",
+    effect: "Deals heavy Strike damage to all foes.",
+    power : "230",
+    accuracy: "85%",
+    critical: "3%",
+    cost: "17% of HP",
+}
+const Gigantic_Fist = {
+    name: "Gigantic Fist",
+    effect: "Deals heavy Strike damage to one foe.",
+    power : "380",
+    accuracy: "85%",
+    critical: "15%",
+    cost: "14% of HP",
+}
+const Heat_Wave = {
+    name: "Heat Wave",
+    effect: "Deals heavy Strike damage to all foes.",
+    power : "400",
+    accuracy: "90%",
+    critical: "10%",
+    cost: "20% of HP",
+}
+const Akasha_Arts = {
+    name: "Akasha Arts",
+    effect: "Deals heavy Strike damage to all foes. (1-2 hits)",
+    power : "300",
+    accuracy: "80%",
+    critical: "5%",
+    cost: "18% of HP",
+}
+const Gods_Hand = {
+    name: "God's Hand",
+    effect: "Deals massive Strike damage to one foe.",
+    power : "800",
+    accuracy: "88%",
+    critical: "13%",
+    cost: "25% of HP",
+}

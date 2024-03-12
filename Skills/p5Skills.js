@@ -39,3 +39,61 @@ const Vorpal_Blade = {
     critical: "10%",
     cost: "23% of HP",
 }
+
+//Strike skills for Persona 5
+const Bash = {
+    name: "Bash",
+    effect: "Light Physical damage to 1 foe.",
+    power : "60",
+    accuracy: "90%",
+    critical: "20%",
+    cost: "5% of HP",
+}
+const Assault_Dive = {
+    name: "Assault Dive",
+    effect: "Heavy Physical damage to 1 foe.",
+    power : "120",
+    accuracy: "90%",
+    critical: "20%",
+    cost: "13% of HP",
+}
+const Swift_Strike = {
+    name: "Swift Strike",
+    effect: "Light Physical damage to all foes. (3-4 hits)",
+    power : "30",
+    accuracy: "70%",
+    critical: "10%",
+    cost: "17% of HP",
+}
+const Vajra_Blast = {
+    name: "Vajra Blast",
+    effect: "Medium Physical damage to all foes.",
+    power : "80",
+    accuracy: "80%",
+    critical: "5%",
+    cost: "14% of HP",
+}
+const Heat_Wave = {
+    name: "Heat Wave",
+    effect: "Heavy Physical damage to all foes.",
+    power : "150",
+    accuracy: "80%",
+    critical: "5%",
+    cost: "20% of HP",
+}
+const Vicious_Strike = {
+    name: "Vicious Strike",
+    effect: "Medium Physical damage to all foes.",
+    power : "110",
+    accuracy: "80%",
+    critical: "5%",
+    cost: "18% of HP",
+}
+const Gods_Hand = {
+    name: "God's Hand",
+    effect: "Colossal Physical damage to 1 foe.",
+    power : "800",
+    accuracy: "90%",
+    critical: "15%",
+    cost: "25% of HP",
+}
